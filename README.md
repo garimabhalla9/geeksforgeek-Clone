@@ -2,18 +2,18 @@
 Welcome to the GeeksforGeeks Landing Page Clone repository! This project is a clone of the GeeksforGeeks landing page created using HTML and CSS.
 
 # Table of Contents
-1)Tech Stack Used
-2)Features
-3)Demo
-4)GitHub Pages
+1) Tech Stack Used
+2) Features
+3) Demo
+4) GitHub Pages
 
 # Tech Stack Used ⚙️
-HTML
-CSS
+1) HTML
+2) CSS
 
 # Features 🌟
-Responsive Design: This clone is designed to be responsive and adapts to different screen sizes, making it accessible on various devices.
-Similar to the Original: The clone closely resembles the original GeeksforGeeks landing page, capturing the look and feel of the website.
+1)  Responsive Design: This clone is designed to be responsive and adapts to different screen sizes, making it accessible on various devices.
+2)Similar to the Original: The clone closely resembles the original GeeksforGeeks landing page, capturing the look and feel of the website.
 
 # Demo 📺
 You can watch a video demonstration of this project to see it in action!
